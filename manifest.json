@@ -2,21 +2,21 @@
   "name": "FitJain — 6-Month Transformation",
   "short_name": "FitJain",
   "description": "Your personal Jain-friendly fitness tracker.",
-  "start_url": "https://maharsh92.github.io/fitjain/",
-  "scope": "https://maharsh92.github.io/fitjain/",
+  "start_url": "https://maharsh92.github.io/FitJain/",
+  "scope": "https://maharsh92.github.io/FitJain/",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://maharsh92.github.io/fitjain/icon-192.png",
+      "src": "https://maharsh92.github.io/FitJain/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://maharsh92.github.io/fitjain/icon-512.png",
+      "src": "https://maharsh92.github.io/FitJain/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
