@@ -1,5 +1,5 @@
-const CACHE = 'fitjain-v2';
-const BASE = '/fitjain/';
+const CACHE = 'FitJain-v2';
+const BASE = '/FitJain/';
 const ASSETS = [
   BASE,
   BASE + 'index.html',
