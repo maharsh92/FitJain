@@ -2,20 +2,21 @@
   "name": "FitJain — 6-Month Transformation",
   "short_name": "FitJain",
   "description": "Your personal Jain-friendly fitness tracker. Diet, workout, and progress — all in one place.",
-  "start_url": "/",
+  "start_url": "/fitjain/",
+  "scope": "/fitjain/",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/fitjain/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/fitjain/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
